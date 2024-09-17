@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Gelo!
 
-<!--
-**antdev0/antdev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+// GitHub Profile README
 
-Here are some ideas to get you started:
+function myProfile() {
+  const fullName = "Angelo Bergado";
+  let profession = "Web Developer";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  let techCurrentlyUsing = ["ReactJS", "JavaScript", "TailwindCSS"];
+  let canUse = ["Next.js", "Laravel", "Node.js", "Firebase"];
+
+  let hobbies = ["Coding", "Learning New Technologies"];
+  let goals = {
+    current: "Building dynamic web applications",
+    future: "Be a senior software engineer!"
+  };
+
+  let contactMe = {
+    email: "antdev0101@gmail.com",
+    linkedIn: "linkedin.com/in/angelo-bergado-b09a00311",
+    portfolio: "https://angelobergado.vercel.app/"
+  };
+
+
+}
+
+myProfile();
