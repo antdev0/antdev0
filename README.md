@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Gelo!
 
 ```javascript
 // GitHub Profile README
