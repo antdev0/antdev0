@@ -10,10 +10,7 @@ function myProfile() {
   let canUse = ["Next.js", "Laravel", "Node.js", "Firebase"];
 
   let hobbies = ["Coding", "Learning New Technologies"];
-  let goals = {
-    current: "Building dynamic web applications",
-    future: "Be a senior software engineer!"
-  };
+
 
   let contactMe = {
     email: "antdev0101@gmail.com",
