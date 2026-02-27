@@ -4,10 +4,10 @@
 
 function myProfile() {
   const fullName = "Angelo Bergado";
-  let profession = "Web Developer";
+  let profession = "Full Stack Developer";
 
-  let techCurrentlyUsing = ["ReactJS", "JavaScript", "TailwindCSS"];
-  let canUse = ["Next.js", "Laravel", "Node.js", "Firebase"];
+  let techCurrentlyUsing = ["ReactJS", "TypeScript", "TailwindCSS"];
+  let canUse = ["Next.js", "Laravel", "Node.js", "SQL Databases", "Figma", "Docker", "FastAPI"];
 
   let hobbies = ["Coding", "Learning New Technologies"];
 
@@ -15,7 +15,7 @@ function myProfile() {
   let contactMe = {
     email: "antdev0101@gmail.com",
     linkedIn: "linkedin.com/in/angelo-bergado-b09a00311",
-    portfolio: "https://angelobergado.vercel.app/"
+    portfolio: "https://angelotrovela.com/"
   };
 
 
